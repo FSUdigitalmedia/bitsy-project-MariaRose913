@@ -1,6 +1,6 @@
-# The Name of Your Game
+# Vacation Monrning
 
-A short description of your game
+Explore you home and finish all the things you need to do before getting on the road to start your vacation. 
 
 ---
 
